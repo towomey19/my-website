@@ -1,1 +1,7 @@
 /* Place CSS styles here */
+body {
+color: #000000c9;
+background-color: #bda8da;
+font-size: 40px;
+background-image: url(../img/kandinsk-edit.png);
+}
