@@ -1,7 +1,21 @@
 /* Place CSS styles here */
 body {
 color: #000000c9;
-background-color: #bda8da;
+background-color: white;
 font-size: 40px;
 background-image: url(../img/kandinsk-edit.png);
+}
+.headtop {
+    text-align: center;
+}
+.intro-info {
+    max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+background-color: #eeeae9;
+text-align: center;
+}
+.meow-wow img{
+    
+    border: 5px solid #fdc9b2;
 }
