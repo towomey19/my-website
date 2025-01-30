@@ -1,9 +1,10 @@
 /* Place CSS styles here */
 body {
-color: #000000c9;
+color: #46082d;
 background-color: white;
 font-size: 40px;
 background-image: url(../img/kandinsk-edit.png);
+font-family:
 }
 .headtop {
     text-align: center;
@@ -15,7 +16,13 @@ margin-right: auto;
 background-color: #eeeae9;
 text-align: center;
 }
-.meow-wow img{
-    
-    border: 5px solid #fdc9b2;
+.meow-wow-wrap {
+    text-align: center;
+}
+.meow-wow {
+    border: 6px solid #fdc9b2;
+}
+/* 2nd page stuffs */
+.me-hobbies {
+    text-shadow: 3px 4px 2px #eeeae9; 
 }
